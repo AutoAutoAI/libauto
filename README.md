@@ -1,4 +1,13 @@
-# The AutoAuto Device Library
+# The Legacy AutoAuto Device Library
+
+**THIS REPOSITORY HAS MOVED!**
+
+The official AutoAuto _libauto_ library is now at: https://github.com/MasterAI-Inc/libauto/tree/master
+
+This repository is left in-tact to serve the original AutoAuto devices. New AutoAuto devices use the code in the new repository above.
+
+_____
+
 
 ## Introduction
 
