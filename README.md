@@ -2,9 +2,9 @@
 
 **THIS REPOSITORY HAS MOVED!**
 
-The official AutoAuto _libauto_ library is now at: https://github.com/MasterAI-Inc/libauto/tree/master
+The official AutoAuto _libauto_ library is now at: https://github.com/MasterAI-Inc/libauto
 
-This repository is left in-tact to serve the original AutoAuto devices. New AutoAuto devices use the code in the new repository above.
+This legacy repository remains in-tact to serve the original AutoAuto devices. This repository may be updated from time to time to enhance features of the original AutoAuto devices; however, new AutoAuto devices use the code in the new repository above.
 
 _____
 
