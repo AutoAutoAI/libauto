@@ -15,6 +15,7 @@ rm -rf "$CURRICULUM_DIR"
 
 echo "Cloning new curriculum repo into" "$HOME"/"$CURRICULUM_DIR"
 git clone "$AA_CURRICULUM_REPO" "$CURRICULUM_DIR"
+cd "$CURRICULUM_DIR" && git checkout 9ca3ef0da0a837325042db56d2704072b4777188 && echo 'Old Version' && cd ..
 rm -rf "$CURRICULUM_DIR"/.git*
 
 echo "Duplicating the Jupyter notebooks..."
